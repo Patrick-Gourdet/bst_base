@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/pgourdet/CLionProjects/BST/BST.cpp
+BST.h
+/cygdrive/c/Users/pgourdet/CLionProjects/BST/BST.h
+
+/cygdrive/c/Users/pgourdet/CLionProjects/BST/BST.h
+iostream
+-
+
+/cygdrive/c/Users/pgourdet/CLionProjects/BST/bstDriver.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+BST.h
+/cygdrive/c/Users/pgourdet/CLionProjects/BST/BST.h
+
